@@ -1,0 +1,12 @@
+git config --global user.name username 
+
+(configs git username with terminal)
+
+git config --global user.email email 
+
+(configs git user email with terminal)
+
+git config --list
+
+(shows list of git settings)
+
